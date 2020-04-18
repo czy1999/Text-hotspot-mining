@@ -7,20 +7,20 @@
 
 ### 示例数据
 
-![0](img\0.jpg)
+![0](img/0.jpg)
 
 
 ### 聚类效果
 
 聚类散点图
 
-![0](img\1.png)
+![0](img/1.png)
 
-![0](img\2.jpg)
+![0](img/2.jpg)
 
-![0](img\3.jpg)
+![0](img/3.jpg)
 
 结果保存到excel中，每个label代表一类数据
 
-![0](img\4.jpg)
+![0](img/4.jpg)
 
